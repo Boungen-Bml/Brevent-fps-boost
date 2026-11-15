@@ -31,4 +31,4 @@ Commands
 
 ```cmd activity set-inactive <package.name> false```
 
-Note: Results may vary depending on your Android version, device, and game. These commands do not guarantee higher FPS or a complete lag fix.
+

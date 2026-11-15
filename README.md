@@ -8,10 +8,6 @@
 - Run commands one at a time.
 - Some commands may not be supported on certain Android versions or devices.
 - The Game Mode features are available on selected Android 12 devices and Android 13 or newer. They may not work on Android 10 or older versions.
-- "cmd package bg-dexopt-job" runs background optimization for all apps when used without a package name. It may take time and use system resources.
-- The FPS setting is only a target limit. It does not guarantee 120 FPS or eliminate lag.
-- Downscaling may reduce the game's visual quality.
-- Back up your original Game Mode configuration before changing it.
 
 📌 How to Use
 

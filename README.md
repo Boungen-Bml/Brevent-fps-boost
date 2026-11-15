@@ -14,8 +14,6 @@
 1. Find your game's package name.
 2. Replace "<PACKAGE_NAME>" with your game's package name.
 3. Run the commands one by one.
-4. Restart the game after applying the settings.
-5. Check whether the commands are supported on your device.
 
 Commands
 

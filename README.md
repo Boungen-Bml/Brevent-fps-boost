@@ -25,7 +25,10 @@ Commands
 
 ```cmd game mode set performance <package.name>```
 
-```cmd game downscale 90 <package.name>```
+```cmd game set --downscale 0.9 <package.name>```
+
+```device_config put game_overlay <package.name> mode=2,downscaleFactor=0.9```
+```cmd game mode 2 <package.name>```
 
 ```cmd activity set-inactive <package.name> false```
 

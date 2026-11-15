@@ -31,4 +31,12 @@ Commands
 
 ```cmd activity set-inactive <package.name> false```
 
+Reset
+```cmd package compile --reset <PACKAGE_NAME>```
+
+```cmd game reset <PACKAGE_NAME>```
+
+```device_config delete game_overlay <PACKAGE_NAME>```
+
+```cmd game mode standard <PACKAGE_NAME>```
 

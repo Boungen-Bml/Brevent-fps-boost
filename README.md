@@ -3,7 +3,7 @@
 
 ⚠️ Warnings
 
-- Make sure Shizuku is running and the required permissions are granted.
+- Make sure Brevent is running and the required permissions are granted.
 - Replace "<PACKAGE_NAME>" with the exact package name of your game. Do not include the angle brackets.
 - Run commands one at a time.
 - Some commands may not be supported on certain Android versions or devices.

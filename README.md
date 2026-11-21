@@ -21,12 +21,39 @@ Commands
 
 ```cmd package bg-dexopt-job```
 
-```cmd device_config put game_overlay <package.name> mode=2,fps=120:mode=3,fps=30```
+```cmd device_config put game_overlay <package.name> mode=2,fps=60:mode=3,fps=30```
 
 ```cmd game mode set performance <package.name>```
 
 ```cmd game set --downscale 0.9 <package.name>```
 
-```cmd activity set-inactive <package.name> false```
+```cmd activity set-standby-bucket <package_name> active```
 
 
+The commands are below.⬇️
+
+cmd package compile -m speed -f package_name
+
+★ ADB Fix: Enable These Settings First!
+
+SAMSUNG (All Galaxy Series)
+Go to: Settings Security and Privacy
+
+Turn OFF: Auto Blocker
+
+XIAOMI / REDMI / POCO /BLACK SHARK
+Go to: Developer Options
+
+Turn ON: USB Debugging (Security Settings)
+
+OPPO / REALME / ONEPLUS
+Go to: Developer Options
+
+Turn ON: Disable permission monitoring
+
+VIVO/IQOO
+Go to: Developer Options
+
+Turn ON: USB Debugging
+
+(Security Settings) & Simulate Input

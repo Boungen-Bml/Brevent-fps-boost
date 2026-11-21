@@ -30,10 +30,6 @@ Commands
 ```cmd activity set-standby-bucket <package_name> active```
 
 
-The commands are below.⬇️
-
-cmd package compile -m speed -f package_name
-
 ★ ADB Fix: Enable These Settings First!
 
 SAMSUNG (All Galaxy Series)
